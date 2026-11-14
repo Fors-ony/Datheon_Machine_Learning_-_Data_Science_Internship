@@ -1,6 +1,6 @@
 # Datheon Machine Learning & Data Science Internship
 
-Projects completed by Nweke Onyinye for the Datheon Machine Learning & Data Science Internship.
+Projects completed for the Datheon Machine Learning & Data Science Internship.
 
 ## Projects includes
 1. Multi-Class Benchmark Classification Pipeline (Iris)](task-1-iris-classification)
